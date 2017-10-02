@@ -1,6 +1,6 @@
 # exercice-repo
 
 Repo made for exercice
-
 Making some changes here!
-New cchanges!
+New changes!
+Changes
