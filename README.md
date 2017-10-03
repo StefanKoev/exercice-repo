@@ -1,4 +1,4 @@
-# exercice-repo
-Repo made for exercice
+# exercise-repo
+Repo made for exercise
 
 We resolve the conflict!
